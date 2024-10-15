@@ -76,6 +76,21 @@ Preguntas
 - Regiones soberanas
 
 11. ¿Qué tecnlogía le permite conectar las de redes privadas virtuales entre si?
-- Emparejamiento de la red [R]
+- Emparejamiento de la red
 - Subredes virtuales
 - Coubicación de VPN
+
+12. ¿Qué característica de máquina virtual de Azure escalona las actualizaciones en todas las máquinas virtuales en función de sus dominios de actualización y error?
+- Conjuntos de disponibilidad
+- Conjuntos de escalado
+- Conjuntos de actualizaciones
+
+13. ¿Qué servicio de Azure permite a los usuarios utilizar una versión hospedada en la nube de Windows desde cualquier ubicación y conectarse desde los exploradores más modernos?
+- Azure Virtual Desktop
+- Azure Virtual Machines
+- Azure Container Instances
+
+14. Si necesita conexiones entre redes virtuales, conexiones de punto a sitio, conexiones multisitio o coexistencia con una puerta de enlace de Azure ExpressRoute, ¿qué tipo de puerta de enlace de VPN debe usar?
+- Puerta de enlace de VPN basada en directivas
+- Puerta de enlace de VPN basada en puntos
+- Puerta de enlace de VPN basada en rutas
